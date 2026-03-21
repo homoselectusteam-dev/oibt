@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "controle": "Elektrokontrolle NIV",
+    "prix": "Preise & Kosten",
+    "devis": "Kostenlose Offerte",
+    "villes": "Städte",
+    "cantons": "Kantone",
+    "blog": "Blog",
+    "outils": "Werkzeuge",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Nr. 1 für Elektrokontrolle NIV in der Schweiz",
+    "title": "Elektrokontrolle NIV in der Schweiz",
+    "subtitle": "Zertifizierter Sicherheitsnachweis • 100% Schweiz-Abdeckung • Kostenlose Offerte in 24h",
+    "cta_primary": "Kostenlose Offerte anfordern",
+    "cta_secondary": "Mehr erfahren",
+    "trust_1": "Unabhängiges Kontrollorgan",
+    "trust_2": "ESTI-akkreditiert",
+    "trust_3": "SiNa in 48h"
+  },
+  "ville": {
+    "title": "Elektrokontrolle NIV {ville}",
+    "meta_desc": "Elektrokontrolle NIV in {ville} ✓ Unabhängiges akkreditiertes Organ ✓ Sicherheitsnachweis in 48h ✓ Kostenlose Offerte ✓ Preis CHF {prixMin}-{prixMax}",
+    "intro_title": "Elektrokontrolle NIV in {ville} – Gesetzliche Pflicht & Preise {year}",
+    "why_title": "Warum eine NIV-Elektrokontrolle in {ville}?",
+    "process_title": "Wie läuft die Elektrokontrolle in {ville} ab?",
+    "price_title": "Preis der Elektrokontrolle in {ville}",
+    "faq_title": "FAQ – Elektrokontrolle NIV {ville}",
+    "cta_title": "Offerte für Elektrokontrolle in {ville} anfordern",
+    "cta_desc": "Unabhängiges akkreditiertes Kontrollorgan. Sicherheitsnachweis in 48h. Transparenter Preis.",
+    "cta_button": "Kostenlose Offerte in 24h",
+    "grd_label": "Lokaler Netzbetreiber:",
+    "population_label": "Einwohner:",
+    "logements_label": "Wohnungen:",
+    "prix_range": "CHF {min} – CHF {max}",
+    "periodicite_title": "NIV-Kontrollfristen in {ville}",
+    "voisines_title": "Benachbarte Gemeinden"
+  },
+  "periodicites": {
+    "habitations": "Wohngebäude (Häuser, Wohnungen)",
+    "bureaux": "Büros & Gewerbe",
+    "hotels": "Hotels & Kaufhäuser",
+    "industries": "Industrie & Grossflächen",
+    "photovoltaique": "Photovoltaikanlagen",
+    "bornes": "Elektrofahrzeug-Ladestationen",
+    "schema3": "Schema-III-Installationen",
+    "20ans": "20 Jahre",
+    "10ans": "10 Jahre",
+    "5ans": "5 Jahre"
+  },
+  "process": {
+    "step1_title": "Terminvereinbarung",
+    "step1_desc": "Kontaktieren Sie uns für einen Termin. Wir sind innerhalb von 5 bis 10 Werktagen verfügbar.",
+    "step2_title": "Vor-Ort-Inspektion",
+    "step2_desc": "Unser Kontrolleur inspiziert alle elektrischen Anlagen gemäß NIV-Norm.",
+    "step3_title": "Sicherheitsnachweis",
+    "step3_desc": "Der Sicherheitsnachweis (SiNa) wird erstellt und innerhalb von 48h an den Netzbetreiber übermittelt.",
+    "step4_title": "Mängelbehebung (falls nötig)",
+    "step4_desc": "Bei Mängeln vermitteln wir Sie an einen qualifizierten Elektriker für die Arbeiten.",
+    "step5_title": "Archivierung & Nachverfolgung",
+    "step5_desc": "Ihr Bericht wird archiviert. Wir erinnern Sie vor dem nächsten Fälligkeitstermin."
+  },
+  "common": {
+    "devis_gratuit": "Kostenlose Offerte",
+    "obligatoire": "Pflicht",
+    "independant": "Unabhängig",
+    "accredite": "Akkreditiert",
+    "ans": "Jahre",
+    "chf": "CHF",
+    "tel": "Tel.",
+    "site": "Website"
+  },
+  "footer": {
+    "desc": "Unabhängiges NIV-Kontrollorgan. 100% Schweiz-Abdeckung in 3 Sprachen.",
+    "legal": "Impressum",
+    "cgu": "AGB",
+    "contact": "Kontakt",
+    "copyright": "© {year} Elektrokontrolle NIV Schweiz. Alle Rechte vorbehalten."
+  },
+  "seo": {
+    "site_name": "Elektrokontrolle NIV Schweiz",
+    "og_type": "website"
+  }
+}

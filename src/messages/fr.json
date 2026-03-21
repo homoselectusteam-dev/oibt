@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "controle": "Contrôle OIBT",
+    "prix": "Prix & Tarifs",
+    "devis": "Devis gratuit",
+    "villes": "Villes",
+    "cantons": "Cantons",
+    "blog": "Blog",
+    "outils": "Outils",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "N°1 du contrôle OIBT en Suisse",
+    "title": "Contrôle OIBT en Suisse",
+    "subtitle": "Rapport de sécurité électrique certifié • Couverture 100% Suisse • Devis gratuit en 24h",
+    "cta_primary": "Demander un devis gratuit",
+    "cta_secondary": "En savoir plus",
+    "trust_1": "Organe de contrôle indépendant",
+    "trust_2": "Accrédité ESTI",
+    "trust_3": "Rapport en 48h"
+  },
+  "ville": {
+    "title": "Contrôle OIBT {ville}",
+    "meta_desc": "Contrôle OIBT à {ville} ✓ Organe indépendant accrédité ✓ Rapport de sécurité en 48h ✓ Devis gratuit ✓ Prix CHF {prixMin}-{prixMax}",
+    "intro_title": "Contrôle électrique OIBT à {ville} – Obligation légale & Tarifs {year}",
+    "why_title": "Pourquoi effectuer un contrôle OIBT à {ville} ?",
+    "process_title": "Comment se déroule le contrôle OIBT à {ville} ?",
+    "price_title": "Prix du contrôle OIBT à {ville}",
+    "faq_title": "FAQ – Contrôle OIBT {ville}",
+    "cta_title": "Demandez votre devis OIBT à {ville}",
+    "cta_desc": "Organe de contrôle indépendant accrédité. Rapport de sécurité en 48h. Prix transparent.",
+    "cta_button": "Devis gratuit en 24h",
+    "grd_label": "GRD local :",
+    "population_label": "Population :",
+    "logements_label": "Logements :",
+    "prix_range": "CHF {min} – CHF {max}",
+    "periodicite_title": "Périodicités OIBT à {ville}",
+    "voisines_title": "Villes voisines desservies"
+  },
+  "periodicites": {
+    "habitations": "Habitations (maisons, appartements)",
+    "bureaux": "Bureaux & commerces",
+    "hotels": "Hôtels & grands magasins",
+    "industries": "Industries & grandes surfaces",
+    "photovoltaique": "Installations photovoltaïques",
+    "bornes": "Bornes de recharge VE",
+    "schema3": "Installations Schéma III",
+    "20ans": "20 ans",
+    "10ans": "10 ans",
+    "5ans": "5 ans"
+  },
+  "process": {
+    "step1_title": "Prise de rendez-vous",
+    "step1_desc": "Contactez-nous pour fixer un rendez-vous. Nous intervenons dans les 5 à 10 jours ouvrés.",
+    "step2_title": "Inspection sur site",
+    "step2_desc": "Notre contrôleur inspecte toutes les installations électriques selon la norme OIBT.",
+    "step3_title": "Rapport de sécurité",
+    "step3_desc": "Le rapport de sécurité (RdS) est rédigé et transmis au GRD local dans les 48h.",
+    "step4_title": "Mise en conformité (si nécessaire)",
+    "step4_desc": "En cas de défauts, nous vous orientons vers un électricien qualifié pour les travaux.",
+    "step5_title": "Archivage & suivi",
+    "step5_desc": "Votre rapport est archivé. Nous vous rappelons avant la prochaine échéance."
+  },
+  "common": {
+    "devis_gratuit": "Devis gratuit",
+    "obligatoire": "Obligatoire",
+    "independant": "Indépendant",
+    "accredite": "Accrédité",
+    "ans": "ans",
+    "chf": "CHF",
+    "tel": "Tél.",
+    "site": "Site web"
+  },
+  "footer": {
+    "desc": "Organe de contrôle OIBT indépendant. Couverture 100% Suisse en 3 langues.",
+    "legal": "Mentions légales",
+    "cgu": "CGU",
+    "contact": "Contact",
+    "copyright": "© {year} Contrôle OIBT Suisse. Tous droits réservés."
+  },
+  "seo": {
+    "site_name": "Contrôle OIBT Suisse",
+    "og_type": "website"
+  }
+}

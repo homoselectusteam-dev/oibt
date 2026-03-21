@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "controle": "Controllo OIBT",
+    "prix": "Prezzi & Tariffe",
+    "devis": "Preventivo gratuito",
+    "villes": "Città",
+    "cantons": "Cantoni",
+    "blog": "Blog",
+    "outils": "Strumenti",
+    "contact": "Contatto"
+  },
+  "hero": {
+    "badge": "N°1 per il controllo OIBT in Svizzera",
+    "title": "Controllo OIBT in Svizzera",
+    "subtitle": "Rapporto di sicurezza certificato • Copertura 100% Svizzera • Preventivo gratuito in 24h",
+    "cta_primary": "Richiedi un preventivo gratuito",
+    "cta_secondary": "Scopri di più",
+    "trust_1": "Organo di controllo indipendente",
+    "trust_2": "Accreditato ESTI",
+    "trust_3": "Rapporto in 48h"
+  },
+  "ville": {
+    "title": "Controllo OIBT {ville}",
+    "meta_desc": "Controllo OIBT a {ville} ✓ Organo indipendente accreditato ✓ Rapporto di sicurezza in 48h ✓ Preventivo gratuito ✓ Prezzo CHF {prixMin}-{prixMax}",
+    "intro_title": "Controllo elettrico OIBT a {ville} – Obbligo legale & Prezzi {year}",
+    "why_title": "Perché effettuare un controllo OIBT a {ville}?",
+    "process_title": "Come si svolge il controllo OIBT a {ville}?",
+    "price_title": "Prezzo del controllo OIBT a {ville}",
+    "faq_title": "FAQ – Controllo OIBT {ville}",
+    "cta_title": "Richiedi il tuo preventivo OIBT a {ville}",
+    "cta_desc": "Organo di controllo indipendente accreditato. Rapporto di sicurezza in 48h. Prezzo trasparente.",
+    "cta_button": "Preventivo gratuito in 24h",
+    "grd_label": "GRD locale:",
+    "population_label": "Popolazione:",
+    "logements_label": "Abitazioni:",
+    "prix_range": "CHF {min} – CHF {max}",
+    "periodicite_title": "Periodicità OIBT a {ville}",
+    "voisines_title": "Città vicine servite"
+  },
+  "periodicites": {
+    "habitations": "Abitazioni (case, appartamenti)",
+    "bureaux": "Uffici & negozi",
+    "hotels": "Hotel & grandi magazzini",
+    "industries": "Industrie & grandi superfici",
+    "photovoltaique": "Impianti fotovoltaici",
+    "bornes": "Stazioni di ricarica VE",
+    "schema3": "Installazioni Schema III",
+    "20ans": "20 anni",
+    "10ans": "10 anni",
+    "5ans": "5 anni"
+  },
+  "process": {
+    "step1_title": "Prenotazione appuntamento",
+    "step1_desc": "Contattateci per fissare un appuntamento. Interveniamo entro 5-10 giorni lavorativi.",
+    "step2_title": "Ispezione in loco",
+    "step2_desc": "Il nostro controllore ispeziona tutti gli impianti elettrici secondo la norma OIBT.",
+    "step3_title": "Rapporto di sicurezza",
+    "step3_desc": "Il rapporto di sicurezza (RaSi) viene redatto e trasmesso al GRD locale entro 48h.",
+    "step4_title": "Messa in conformità (se necessario)",
+    "step4_desc": "In caso di difetti, vi orientiamo verso un elettricista qualificato per i lavori.",
+    "step5_title": "Archiviazione & follow-up",
+    "step5_desc": "Il vostro rapporto viene archiviato. Vi ricordiamo prima della prossima scadenza."
+  },
+  "common": {
+    "devis_gratuit": "Preventivo gratuito",
+    "obligatoire": "Obbligatorio",
+    "independant": "Indipendente",
+    "accredite": "Accreditato",
+    "ans": "anni",
+    "chf": "CHF",
+    "tel": "Tel.",
+    "site": "Sito web"
+  },
+  "footer": {
+    "desc": "Organo di controllo OIBT indipendente. Copertura 100% Svizzera in 3 lingue.",
+    "legal": "Note legali",
+    "cgu": "CGC",
+    "contact": "Contatto",
+    "copyright": "© {year} Controllo OIBT Svizzera. Tutti i diritti riservati."
+  },
+  "seo": {
+    "site_name": "Controllo OIBT Svizzera",
+    "og_type": "website"
+  }
+}

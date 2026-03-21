@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #1d4ed8;
+    --color-accent: #d97706;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-gray-900 antialiased;
+  }
+
+  h1 { @apply text-3xl font-bold leading-tight; }
+  h2 { @apply text-2xl font-bold leading-snug; }
+  h3 { @apply text-xl font-semibold; }
+  h4 { @apply text-lg font-semibold; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-primary-700 hover:bg-primary-800 text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 border-2 border-primary-700 text-primary-700 hover:bg-primary-50 font-semibold px-6 py-3 rounded-lg transition-colors duration-200;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 bg-primary-100 text-primary-800 text-sm font-medium px-3 py-1 rounded-full;
+  }
+
+  .badge-success {
+    @apply inline-flex items-center gap-1 bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full;
+  }
+
+  .section {
+    @apply py-16 px-4 max-w-6xl mx-auto;
+  }
+
+  .prose-oibt {
+    @apply prose prose-blue max-w-none prose-headings:text-gray-900 prose-a:text-primary-700;
+  }
+}
