@@ -122,7 +122,6 @@ function HeroSection({ locale }: { locale: string }) {
             {c.cta}
           </Link>
         </div>
-        <p className="text-primary-200 text-sm mb-10">{c.ctaSub}</p>
 
         {/* Trust badges */}
         <div className="flex flex-wrap justify-center gap-4 mb-12">
