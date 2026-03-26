@@ -3,7 +3,7 @@ import { villes } from '@/data/villes';
 import { cantons } from '@/data/cantons';
 import { blogPosts } from '@/data/blog';
 
-const BASE_URL = 'https://controle-oibt.ch';
+const BASE_URL = 'https://www.tarifs-oibt.ch';
 const locales = ['fr', 'de', 'it'];
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -77,15 +77,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'glossaire-oibt',
   ];
 
-  for (const locale of locales) {
-    for (const path of situationnelPaths) {
-      urls.push({
-        url: `${BASE_URL}/${locale}/${path}`,
-        lastModified: lastWeek,
-        changeFrequency: 'monthly',
-        priority: 0.75,
-      });
-    }
+  for (const path of situationnelPaths) {
+    urls.push({
+      url: `${BASE_URL}/fr/${path}`,
+      lastModified: lastWeek,
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    });
   }
 
   // ─── Outils ──────────────────────────────────────────────────────────────────
@@ -108,7 +106,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // ─── Pages entité ─────────────────────────────────────────────────────────────
-  const entityPaths = ['a-propos', 'equipe', 'certifications', 'contact'];
+  const entityPaths = ['a-propos', 'equipe', 'certifications', 'contact', 'mentions-legales'];
   for (const locale of locales) {
     for (const path of entityPaths) {
       urls.push({
